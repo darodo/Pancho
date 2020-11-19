@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600488033 source:c:\users\pc\desktop\tareas_ed_2semestre\cumpleaños\cumpleañosfeliz\main.cpp
+	<iostream>
+	<time.h>
+
