@@ -2,7 +2,8 @@
 #include <time.h>
 
 using namespace std;
-
+//probando github
+idasdas
 int main()
 {
     srand(time(NULL));setlocale(LC_ALL, "spanish");
